@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá! Eu sou a Taiane 👋
 
-<!--
-**Taiane-CSilva/Taiane-CSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise de Dados**.
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo projetos utilizando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Excel
+- SQL (em aprendizado)
+- Power BI(em aprendizado)
+- Python (em aprendizado)
+
+---
+
+## 📊 Projetos
+
+### Análise das Mensalidades de Cursos no PROUNI
+
+Projeto de análise exploratória utilizando **Excel e tabelas dinâmicas** para investigar os valores de mensalidade de cursos.
+
+🔗 Projeto:  
+https://github.com/Taiane-CSilva/analise-mensalidades-prouni
+
+---
+
+## 📚 Em aprendizado
+
+- SQL para análise de dados  
+- Power BI  
+- Python para análise de dados  
+
+---
+
+## 📬 Contato
+
+LinkedIn:  
+https://www.linkedin.com/in/taiane-c-silva/
